@@ -1,1 +1,1 @@
-# Programming-methods-of-infirmation-security
+# Programming-methods-of-information-security
